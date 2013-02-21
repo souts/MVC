@@ -1,0 +1,1 @@
+http://www.cnblogs.com/vipwan/archive/2013/02/20/USER-XML-Globalization-IN-NET-MVC.html
