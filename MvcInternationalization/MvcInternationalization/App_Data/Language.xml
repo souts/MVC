@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<dicts>
+  <dict name="Home.Index.ViewAll">
+    <zh-TW>查看所有</zh-TW>
+    <en-US>View All</en-US>
+  </dict>
+  <dict name="Home.Index.Copy">
+    <zh-TW><![CDATA[版權所有  &copy; {0} 印刷包裝服務有限公司]]></zh-TW>
+    <en-US><![CDATA[Copyright &copy; {0}.Pkg Printing Service Co.LTD  All Rights Reserved.]]></en-US>
+  </dict>
+</dicts>
